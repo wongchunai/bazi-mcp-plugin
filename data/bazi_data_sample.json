@@ -1,0 +1,26 @@
+[
+  {
+    "datetime": "1994-02-07 19:00",
+    "year_ganzhi": "甲戌",
+    "month_ganzhi": "丙寅",
+    "day_ganzhi": "甲子",
+    "hour_ganzhi": "甲戌",
+    "year_wuxing": "木土",
+    "month_wuxing": "火木",
+    "day_wuxing": "木水",
+    "hour_wuxing": "木土",
+    "year_canggan": "[戊, 辛, 丁]",
+    "month_canggan": "[甲, 丙, 戊]",
+    "day_canggan": "[癸]",
+    "hour_canggan": "[戊, 辛, 丁]",
+    "year_shishen_gan": "比肩",
+    "month_shishen_gan": "食神",
+    "day_shishen_gan": "日主",
+    "hour_shishen_gan": "比肩",
+    "year_shishen_zhi": "[偏财, 正官, 伤官]",
+    "month_shishen_zhi": "[比肩, 食神, 偏财]",
+    "day_shishen_zhi": "[正印]",
+    "hour_shishen_zhi": "[偏财, 正官, 伤官]"
+  }
+]
+
